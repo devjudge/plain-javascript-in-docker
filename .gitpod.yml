@@ -2,7 +2,7 @@
 tasks:
   - name: 'Terminal 1'
     openMode: split-left
-    init: npm install --global http-server # runs during prebuild
+    init: npm install --global http-server@0.11.1 # runs during prebuild
     command: http-server -p 4200
   - name: 'Terminal 2'
     openMode: split-right
