@@ -21,8 +21,6 @@ PROJECT START STEPS:
         1.b. Run the following command(s) in the terminal/command line:    
             - http-server ./ -p 4200 -a 0.0.0.0
     
-    2. Go to http://localhost:4200 in your browser to view it.
-    
 CLOUD-IDE SETUP STEPS(follow the below steps in case you are using the Cloud IDE instead of your Local IDE):
 
     1. Please run the below commands from the project root in a separate terminal to setup live run support in Cloud IDE:
